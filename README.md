@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I'm Valery 👋
+I'm a creative developer
+## About Me
 
-<!--
-**alevm569/alevm569** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<ul>
+    <li>🎓 Major: Computer Science</li>
+    <li>🎓 Master: Artificial Intelligence</li>
+    <li>📍 Location: Quito - Ecuador</li>
+    <li>💼 Current Job/Position: FullStack developer</li>
 
-Here are some ideas to get you started:
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skill & Technologies
+Here are some tools and technologies I work with:
+<ul>
+    <li>**Lenguages**: Python, JavaScript, React, NodeJs</li>
+    <li>**Tools**: Git & GitHub</li>
+</ul>
+
+## Get in Touch
+[LinkedIn](https://www.linkedin.com/in/valery-villarruel-1a6276209/)
