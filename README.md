@@ -19,3 +19,9 @@ Here are some tools and technologies I work with:
 
 ## Get in Touch
 [LinkedIn](https://www.linkedin.com/in/valery-villarruel-1a6276209/)
+
+
+## :zap: Recent Activity
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
