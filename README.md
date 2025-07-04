@@ -21,7 +21,7 @@ Here are some tools and technologies I work with:
 [LinkedIn](https://www.linkedin.com/in/valery-villarruel-1a6276209/)
 
 
-## :zap: Recent Activity
-<!--START_SECTION:activity-->
+### 📌 Actividad reciente
+<!--RECENT_ACTIVITY:start-->
 
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:last_update-->
